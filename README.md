@@ -13,6 +13,7 @@
 7. `san_subdomain_enum.py` - Extract domains/sub-domains listed in Subject Alternate Name(SAN) of SSL/TLS cert for a domain
 8. `virustotal_subdomain_enum.py` - Extract sub-domains for a given domain using VirusTotal API
 9. `ShoFinder.py` - Extract info from Shodan API
+10. `sub.sh` - Subdomain Detect Script & Active/Nmap hosts scans (sub_alive, nmap_sn)
 
 
 ## enum.zip:
