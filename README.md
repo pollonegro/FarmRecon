@@ -14,6 +14,7 @@
 8. `virustotal_subdomain_enum.py` - Extract sub-domains for a given domain using VirusTotal API
 9. `ShoFinder.py` - Extract info from Shodan API
 10. `sub.sh` - Subdomain Detect Script & Active/Nmap hosts scans (sub_alive, nmap_sn)
+11. `waFFUck.py` - Obtain olds ip by Historical DNS data
 
 
 ## enum.zip:
