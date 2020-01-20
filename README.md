@@ -15,6 +15,7 @@
 9. `ShoFinder.py` - Extract info from Shodan API
 10. `sub.sh` - Subdomain Detect Script & Active/Nmap hosts scans (sub_alive, nmap_sn)
 11. `waFFUck.py` - Obtain olds ip by Historical DNS data
+![](https://github.com/pollonegro/FarmRecon/blob/master/img/waFFuck!.png)
 
 
 ## enum.zip:
