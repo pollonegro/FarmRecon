@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
-# 	https://securitytrails.com/domain/altasadsl.vodafone.es/history/a
+# 	https://securitytrails.com/domain/---HOSTNAME---/history/a
 import sys, urllib, requests, json, argparse, time, re, socket, string
 from termcolor import colored
 from bs4 import BeautifulSoup
 
-parser = argparse.ArgumentParser(description='Version: 1.0 - This script intend to obtain real ip bypassing WAFs by Historical DNS data')
+parser = argparse.ArgumentParser(description='Version: 1.1 - This script intend to obtain real ip bypassing WAFs by Historical DNS data')
 parser.add_argument('-t','--target', help="Indicate domain to process \n\n",required=True)
 args = parser.parse_args()
 
@@ -39,7 +39,7 @@ try:
 		data = [[cell.get_text(strip=True) for cell in row.find_all('td')] for row in soup.find_all("tr", class_=True)]
 
 		separator = "   |   "
-		def converttostr(input_seq, separator):		# COMO SOY UN CAZURRO PASO LA LISTA A STRING
+		def converttostr(input_seq, separator):
 			final_str = separator.join(input_seq)
 			return final_str
 
