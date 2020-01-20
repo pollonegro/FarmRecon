@@ -8,3 +8,4 @@
 6. `crtsh_enum_web.py` - Extract sub-domains for a given domain using crt.sh by scraping the web page(Python3)
 7. `san_subdomain_enum.py` - Extract domains/sub-domains listed in Subject Alternate Name(SAN) of SSL/TLS cert for a domain
 8. `virustotal_subdomain_enum.py` - Extract sub-domains for a given domain using VirusTotal API
+9. `waFFuck.py` - Obtain real ip "bypassing" WAFs by Historical DNS data
