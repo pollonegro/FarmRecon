@@ -62,6 +62,7 @@ Altdns, Amass, Anubis, Bluto, Dnsrecon, Dnssearch, Domained, ESD, Knock, Massdns
 
 ## Online DNS tools
 
+https://osintframework.com/<br>
 https://hackertarget.com/<br>
 http://searchdns.netcraft.com/<br>
 https://dnsdumpster.com/<br>
