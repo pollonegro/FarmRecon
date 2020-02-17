@@ -54,6 +54,7 @@ Altdns, Amass, Anubis, Bluto, Dnsrecon, Dnssearch, Domained, ESD, Knock, Massdns
 [SubBrute - Brute force](https://github.com/TheRook/subbrute)<br>
 [Sudomy - Subdomain enumeration tool](https://github.com/Screetsec/Sudomy)<br>
 [Sublist3r - Baidu, Yahoo, Google, Bing, Ask, Netcraft, DNSdumpster, VirusTotal, Threat Crowd, SSL Certificates, PassiveDNS](https://github.com/aboul3la/Sublist3r)<br>
+[Syborg - Recursive DNS Subdomain Enumerator](https://github.com/MilindPurswani/Syborg)<br>
 [TheHarvester - Reverse DNS, brute force, Google, Bing, Dogpile, Yahoo, Baidu, Shodan, Exalead](https://github.com/laramies/theHarvester)<br>
 [Vhost-brute - Vhost discovery](https://github.com/gwen001/vhost-brute)<br>
 [VHostScan - Vhost discovery](https://github.com/codingo/VHostScan)<br>
