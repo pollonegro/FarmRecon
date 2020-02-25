@@ -28,7 +28,7 @@ Altdns, Amass, Anubis, Bluto, Dnsrecon, Dnssearch, Domained, ESD, Knock, Massdns
 [Altdns - Alternative names brute forcing](https://github.com/infosec-au/altdns)<br>
 [Amass - Brute force, Google, VirusTotal, alt names](https://github.com/caffix/amass)<br>
 [Aquaton-ediscover- Brute force, Riddler, PassiveTotal, Threat Crowd, Google, VirusTotal, Shodan, SSL Certificates, Netcraft, HackerTarget, DNSDB](https://github.com/michenriksen/aquatone)<br>
-[as3nt - Fast Subdomain Enumeration Tool] (https://github.com/cinerieus/as3nt)<br>
+[as3nt - Fast Subdomain Enumeration Tool](https://github.com/cinerieus/as3nt)<br>
 [BiLE-suite - HTML parsing, alt names, reverse DNS](https://github.com/sensepost/BiLE-suite)<br>
 [Blacksheepwall - AXFR, brute force, reverse DNS, Censys, Yandex, Bing, Shodan, Logontube, SSL Certificates, Virus Total](https://github.com/tomsteele/blacksheepwall)<br>
 [Bluto - AXFR, netcraft, brute force](https://github.com/RandomStorm/Bluto)<br>
